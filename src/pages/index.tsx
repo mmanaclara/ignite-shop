@@ -1,5 +1,13 @@
-function Home() {
-  return <h1>Hello World</h1>
-}
+import { styled } from "../styles"
 
-export default Home
+const Button = styled('button', {
+  backgroundColor: '$green500',
+  color: '$gray100',
+  cursor: 'pointer',
+  borderRadius: 8,
+  border: 0,
+})
+
+export default function Home() {
+  return <Button>Hello World</Button>
+}
