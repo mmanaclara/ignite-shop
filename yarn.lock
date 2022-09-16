@@ -1280,6 +1280,11 @@ json5@^1.0.1:
     array-includes "^3.1.5"
     object.assign "^4.1.3"
 
+keen-slider@^6.8.1:
+  version "6.8.1"
+  resolved "https://registry.yarnpkg.com/keen-slider/-/keen-slider-6.8.1.tgz#14d03e9216f98c65293cd7a95040c300c3e85e76"
+  integrity sha512-viUGYjhCgRMZOOiTUcOneY9Jm8c7E1NgoQF337N7fEXLqE96dLomKBfRB3sHGpJ9OZuHFoI+KNF0S4gSjV/y1g==
+
 language-subtag-registry@~0.3.2:
   version "0.3.22"
   resolved "https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.22.tgz"
